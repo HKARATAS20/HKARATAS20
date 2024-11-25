@@ -9,7 +9,7 @@
 </p>
 
 
- 🔭 I’m currently working on Finding a Job
+ 🔭 I’m currently working on improving my mobile development skills
 - 🌱 I’m currently learning UiKit and Unity
 - 📫 How to reach me: e-mail me @  altaykrts@gmail.com
 
